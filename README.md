@@ -3,8 +3,9 @@ A simple GitHub project for Dave and I
 
 We will build a 3 page site with the following requirements
 1. each developer will test all code on their personal machines.
-2. all correspondence via github
-3. goal is a functional project live - hosted on bluehost
+2. github pushes every 5-10 minutes;
+3. all correspondence via github
+4. goal is a functional project live - hosted on bluehost
 
 tables to include:
 1. statically built grades table - gradeId, studentId, block, date, grade, timestamp
